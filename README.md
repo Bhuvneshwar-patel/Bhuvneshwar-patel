@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=38&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=70&lines=Hi+%F0%9F%91%8B+I'm+Tejswini+Maingade;DevOps+Engineer+%E2%9A%99%EF%B8%8F;Cloud+%7C+Automation+%7C+CI%2FCD;Always+Learning+%F0%9F%9A%80" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=38&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=70&lines=Hi+%F0%9F%91%8B+I'm+Bhuvneshwar+Patel;DevOps+Engineer+%E2%9A%99%EF%B8%8F;Cloud+%7C+Automation+%7C+CI%2FCD;Always+Learning+%F0%9F%9A%80" alt="Typing animation" />
 
 ### ☁️ DevOps Engineer | Cloud & Automation | CI/CD | Kubernetes
 
@@ -215,15 +215,15 @@ I'm focused on developing strong practical DevOps skills through **hands-on proj
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/tejswini-maingade/">
+<a href="https://www.linkedin.com/feed/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<a href="https://github.com/tejswini-maingade">
+<a href="https://github.com/Bhuvneshwar-patel">
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<a href="mailto:tejswinimaingade@gmail.com">
+<a href="mailto:bhuvneshwarpatel2026@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
