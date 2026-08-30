@@ -8,7 +8,7 @@
   <a href="https://github.com/Bhuvneshwar-patel">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="www.linkedin.com/in/bhuvneshwarpatel">
+  <a href="https://www.linkedin.com/feed/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:bhuvneshwarpatel2026@gmail.com">
