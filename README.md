@@ -1,104 +1,242 @@
 <div align="center">
-  
-# Hello Bhuvneshwar patel 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Java+Backend+Developer;DevOps+Enthusiast;Learning+Cloud+%26+CI%2FCD;Building+Production-Ready+Apps)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=38&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=70&lines=Hi+%F0%9F%91%8B+I'm+Tejswini+Maingade;DevOps+Engineer+%E2%9A%99%EF%B8%8F;Cloud+%7C+Automation+%7C+CI%2FCD;Always+Learning+%F0%9F%9A%80" alt="Typing animation" />
 
-</div>
+### ☁️ DevOps Engineer | Cloud & Automation | CI/CD | Kubernetes
 
----
-
-## 🚀 About Me
-
-I'm a passionate **Java Backend Developer** & **DevOps learner** from 🇮🇳 India, currently focusing on building **scalable applications** and **production-grade infrastructure**.
-
-- 🔭 Currently learning **Java Backend Development**, **DevOps**, **Cloud-Native technologies** and **CI/CD pipelines**
-- 🌱 Deep diving into **Spring Boot**, **Docker**, **Kubernetes**, **AWS**, **Jenkins** and **Terraform**
-- 👯 Looking to collaborate on **open-source projects**, **DevOps challenges** and **backend systems**
-- 💬 Ask me about **Java, Spring Boot, REST APIs, Docker, Kubernetes, Linux & Cloud**
-- ⚡ Fun fact: I believe in learning by building — theory + hands-on projects = real growth
-
----
-
-## 🛠️ Tech Stack
-
-### **Languages & Backend**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
+<p>
+  <a href="https://github.com/Bhuvneshwar-patel">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="www.linkedin.com/in/bhuvneshwarpatel/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:bhuvneshwarpatel2026@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
-### **Cloud & DevOps**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+</div>
+
+---
+
+## 👩‍💻 About Me
+
+passionate about cloud computing, automation, and modern software delivery. I enjoy building scalable CI/CD pipelines, automating infrastructure, and working with Linux, AWS, Docker, Kubernetes, Terraform, Jenkins, Git, GitHub Actions, Prometheus, Grafana, Python, and Bash</b> to create reliable and efficient solutions. 
+
+I believe in continuous learning, hands-on problem solving, and adopting DevOps best practices to build secure, scalable, and highly available cloud infrastructure. My goal is to continuously enhance my technical expertise while contributing to innovative and impactful DevOps solutions. 🚀
+
+---
+
+
+### 🚀 What I Focus On
+
+* ☁️ **Cloud & Infrastructure**
+* 🔄 **CI/CD & Automation**
+* 🐳 **Docker & Containerization**
+* ☸️ **Kubernetes & Orchestration**
+* 🏗️ **Infrastructure as Code**
+* 📊 **Monitoring & Observability**
+* 🐧 **Linux & Shell Scripting**
+* 🔐 **DevOps Best Practices**
+* 📚 **Continuous Learning**
+
+---
+
+## 🛠️ Technical Skills
+
+### ☁️ Cloud & Infrastructure
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" alt="AWS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="55" alt="Terraform"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="55" alt="Ansible"/>
 </p>
 
-### **Databases & Tools**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
+**AWS • Terraform • Ansible • Infrastructure as Code**
+
+---
+
+### 🐳 Containers & Kubernetes
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55" alt="Docker"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="55" alt="Kubernetes"/>
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400">
-</div>
+**Docker • Kubernetes • Containerization • Orchestration**
 
 ---
 
-## 🏆 GitHub Trophies
+### 🔄 CI/CD & DevOps
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="55" alt="Jenkins"/>
+<img src="https://cdn.simpleicons.org/githubactions/2088FF" width="55" alt="GitHub Actions"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" alt="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="55" alt="GitLab"/>
+</p>
+
+**Jenkins • GitHub Actions • Git • GitHub • GitLab • CI/CD Automation**
+
+---
+
+### 📊 Monitoring & Observability
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="55" alt="Prometheus"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="55" alt="Grafana"/>
+</p>
+
+**Prometheus • Grafana • Monitoring • Metrics • Dashboards • Alerting**
+
+---
+
+### 🐧 Linux & Scripting
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55" alt="Linux"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" alt="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="55" alt="Nginx"/>
+</p>
+
+**Linux • Bash • Python • Shell Scripting • Nginx**
+
+---
+
+### 🧰 Tools
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" alt="VS Code"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="50" alt="Vim"/>
+</p>
+
+**VS Code • Vim • GitHub CLI • YAML**
+
+---
+
+## 📚 Currently Learning
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
+
+| Area             | Focus                       |
+| ---------------- | --------------------------- |
+| ☁️ Cloud         | AWS & Cloud Architecture    |
+| 🏗️ IaC          | Terraform                   |
+| ☸️ Containers    | Kubernetes                  |
+| 🔄 CI/CD         | Jenkins & GitHub Actions    |
+| 🐧 Linux         | Administration & Automation |
+| 📊 Observability | Prometheus & Grafana        |
+| 🤖 Automation    | Bash & Python               |
+| 🔐 DevOps        | Security & Best Practices   |
+
 </div>
 
 ---
 
-## 📈 Activity Graph
+## 🚀 90 Days of DevOps
+
+Currently building my skills through the **#90DaysOfDevOps** challenge with a strong focus on practical, hands-on learning.
+
+### 📌 Topics I'm Practicing
+
+```text
+Linux
+  ↓
+Shell Scripting
+  ↓
+Git & GitHub
+  ↓
+Docker
+  ↓
+Kubernetes
+  ↓
+AWS
+  ↓
+Terraform
+  ↓
+CI/CD
+  ↓
+Monitoring & Observability
+```
+
+--- 
+
+### 📖 Recent Learning
+
+* 🐧 Linux & Shell Scripting
+* 🌐 Networking Fundamentals
+* 🔀 Git Branching & Advanced Git
+* 🐙 GitHub CLI
+* 🐳 Docker
+* ☸️ Kubernetes
+* ☁️ AWS
+* 🏗️ Terraform
+
+---
+
+
+## 📊 GitHub Activity
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" alt="Activity Graph">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tejswini-maingade&theme=github-dark&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Contribution Graph"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=tejswini-maingade&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## 🐍 Contribution Activity
 
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+
+<img src="https://raw.githubusercontent.com/tejswini-maingade/tejswini-maingade/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+## 🎯 My DevOps Philosophy
+
+> **Automate what can be automated.
+> Monitor what matters.
+> Learn continuously.
+> Build reliable systems. 🚀**
+
+I'm focused on developing strong practical DevOps skills through **hands-on projects, troubleshooting, automation, and continuous learning**.
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/tejswini-maingade/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://github.com/tejswini-maingade">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="mailto:tejswinimaingade@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 </div>
 
 ---
 
 <div align="center">
-  
-### 💡 "Code. Deploy. Scale. Repeat."
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=brightgreen&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=Follow&style=social)](https://github.com/YOUR_USERNAME)
+### 💙 Thanks for visiting my profile!
+
+**Let's build, automate, learn and grow together. 🚀**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:58A6FF,100:9333EA"/>
 
 </div>
